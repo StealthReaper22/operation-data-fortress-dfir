@@ -6,7 +6,7 @@ Operation Data Fortress was a senior cybersecurity capstone project involving th
 The investigation focused on reconstructing attacker activity using endpoint, network, cloud, and identity-related evidence.
 
 ## My Role
-Forensic Lead — Team Tiger
+**Forensic Lead**
 
 My responsibilities included analyzing digital evidence, reconstructing attacker activity, maintaining forensic documentation, and contributing to incident findings and recommendations.
 
@@ -48,4 +48,8 @@ My responsibilities included analyzing digital evidence, reconstructing attacker
 - Technical Documentation
 
 ## Project Artifacts
-Sanitized project documentation and supporting artifacts may be included in this repository where appropriate.
+
+### Forensic Investigation Report
+A sanitized portfolio version of the forensic investigation report is available in the `reports/` folder.
+
+The report documents the investigation methodology, evidence sources, key findings, reconstructed attack timeline, chain-of-custody approach, and security recommendations.
